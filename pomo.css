@@ -6,11 +6,17 @@ body {
 p {
 	font-size: 1em;
 }
+#timer-display-box {
+	position: relative;
+	top: 10em;
+	left: 9em;
+	z-index: 5;
+}
 #circle {
 	width:20em;
 	height:20em;
 	border-radius: 50%;
-	background:red;
+	background-color: red;
 }
 .btn {
 	border-color: black;
