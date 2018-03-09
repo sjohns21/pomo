@@ -1,5 +1,10 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
 p {
-	font-size: 5em;
+	font-size: 1em;
 }
 #circle {
 	width:20em;
@@ -7,7 +12,9 @@ p {
 	border-radius: 50%;
 	background:red;
 }
-
+.btn {
+	border-color: black;
+}
 #cover {
 	position: relative;
 	width:20em;
