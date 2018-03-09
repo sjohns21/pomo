@@ -1,0 +1,16 @@
+p {
+	font-size: 5em;
+}
+#circle {
+	width:20em;
+	height:20em;
+	border-radius: 50%;
+	background:red;
+}
+#cover {
+	position: relative;
+	width:20em;
+	height:1em;
+	top:-20em;
+	background:blue;
+}
