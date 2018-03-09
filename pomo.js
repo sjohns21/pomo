@@ -8,6 +8,7 @@ $(document).ready(function() {
 		$("#stop").click(function() {
 			clearInterval(int);
 		});
+		
 
 		function tick() {
 			if (mins == 0 && secs == 0) { //0:0
